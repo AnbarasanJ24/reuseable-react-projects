@@ -21,3 +21,8 @@ Accordion
 Menu Items
 
 <img width="1419" alt="image" src="https://user-images.githubusercontent.com/46339443/212468156-d3572c7e-7c2f-49b5-b1eb-5f5ba83ee6ef.png">
+
+
+Tabs
+
+<img width="1414" alt="image" src="https://user-images.githubusercontent.com/46339443/212470504-9ededb62-a07b-4506-952a-502085d014d2.png">
