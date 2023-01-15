@@ -253,10 +253,8 @@ article.activeSlide {
   transform: translateX(0);
 }
 article.prevSlide {
-  opacity: 1;
   transform: translateX(-100%);
 }
 article.nextSlide {
-  opacity: 1;
   transform: translateX(100%);
 }
