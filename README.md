@@ -31,3 +31,8 @@ Tabs
 Carousel
 
 <img width="1434" alt="image" src="https://user-images.githubusercontent.com/46339443/212551231-5885b4fe-4702-419e-89b5-a0a498ddb3c4.png">
+
+
+Paragraph Generator
+
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/46339443/212552994-45bc8287-b5c1-4bc4-b36e-2b4baa7197e3.png">
