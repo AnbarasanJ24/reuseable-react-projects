@@ -26,3 +26,8 @@ Menu Items
 Tabs
 
 <img width="1414" alt="image" src="https://user-images.githubusercontent.com/46339443/212470504-9ededb62-a07b-4506-952a-502085d014d2.png">
+
+
+Carousel
+
+<img width="1434" alt="image" src="https://user-images.githubusercontent.com/46339443/212551231-5885b4fe-4702-419e-89b5-a0a498ddb3c4.png">
